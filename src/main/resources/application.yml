@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: INFO
+criipto:
+  authentication-token: TODO
+  signed-file-output: /var/tmp/signed.pdf
